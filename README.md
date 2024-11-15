@@ -8,7 +8,7 @@
     
     Bank of England provided a dataset containing key demographic and financial details of bank customers. The bank needs to improve customer retention strategies, optimize financial products, and better understand customer behavior across different segments.
     
-    `Objectives`
+   `Objectives`
     
     Utilizing the dataset containing key demographic and financial details of bank customers. We would answer questions that would help us understand the demographic of the bank customers, the financial characteristics of the bank customers, identifying trends and patterns in customer engagement, and highlighting potential areas for business improvement.
     
