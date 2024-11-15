@@ -12,7 +12,7 @@
     
     Utilizing the dataset containing key demographic and financial details of bank customers. We would answer questions that would help us understand the demographic of the bank customers, the financial characteristics of the bank customers, identifying trends and patterns in customer engagement, and highlighting potential areas for business improvement.
     
-    `Approach`
+   `Approach`
     
     To solve this problem, we are going to utilize the standard approach for data mining;
     
@@ -28,31 +28,31 @@
     
      Here is the data dictionary for more insight of the data
      
-     `CustomerId`: A unique identifier for each customer.
+    `CustomerId`: A unique identifier for each customer.
     
-      `Surname`: The customer's last name.
+     `Surname`: The customer's last name.
     
-      `CreditScore`: A numerical score representing the customer's creditworthiness.
+     `CreditScore`: A numerical score representing the customer's creditworthiness.
     
-      `Geography`: The geographical location of the customer (e.g., country or region).
+     `Geography`: The geographical location of the customer (e.g., country or region).
     
-      `Gender`:The gender of the customer.
+     `Gender`:The gender of the customer.
     
-       `Age`: The customer's age.
+      `Age`: The customer's age.
     
-      `Tenure`:Number of years the customer has been with the bank (possibly).
+     `Tenure`:Number of years the customer has been with the bank (possibly).
     
-      `EstimatedSalary`: The estimated annual salary of the customer.
+     `EstimatedSalary`: The estimated annual salary of the customer.
     
-      `Balance`: The current balance in the customer's account.
+     `Balance`: The current balance in the customer's account.
     
-      `Total Products`: The number of products the customer has with the bank (e.g., savings, loans).
+     `Total Products`: The number of products the customer has with the bank (e.g., savings, loans).
     
-      `Credit Card`: Whether the customer has a credit card with the bank.
+     `Credit Card`: Whether the customer has a credit card with the bank.
     
      `Active Member`: Whether the customer is an active member of the bank.
     
-      `Exited`: The target variable indicating whether the customer has exited the bank.
+     `Exited`: The target variable indicating whether the customer has exited the bank.
     
     
    # Insights and Recommendations 
