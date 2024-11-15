@@ -4,7 +4,7 @@
 
    ## Overview
     
-    `Problem Statement`
+   `Problem Statement`
     
     Bank of England provided a dataset containing key demographic and financial details of bank customers. The bank needs to improve customer retention strategies, optimize financial products, and better understand customer behavior across different segments.
     
@@ -24,10 +24,10 @@
     
 
 
-    ## Data 
+   ## Data 
     
      Here is the data dictionary for more insight of the data
-    
+     
      `CustomerId`: A unique identifier for each customer.
     
       `Surname`: The customer's last name.
@@ -55,7 +55,7 @@
       `Exited`: The target variable indicating whether the customer has exited the bank.
     
     
-     # Insights and Recommendations 
+   # Insights and Recommendations 
     
      Here are the key insights drawn from analyzing the data.
     
@@ -210,7 +210,7 @@
          - Create win-back campaigns targeting recently inactive customers with limited time offers to re-engage them.
          - Offer special incentives for customers who are close to anniversary or account review date.
     
-    # Conclusion 
+   # Conclusion 
     
        By implementing these strategies,the bank can effectively optimize its services,enhance customer satisfaction, and improve  overall profitability. 
     
