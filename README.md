@@ -2,7 +2,7 @@
 
 
 
-    ## Overview
+   ## Overview
     
     `Problem Statement`
     
@@ -24,7 +24,7 @@
     
 
 
-     ## Data 
+    ## Data 
     
      Here is the data dictionary for more insight of the data
     
@@ -55,7 +55,7 @@
       `Exited`: The target variable indicating whether the customer has exited the bank.
     
     
-      # Insights and Recommendations 
+     # Insights and Recommendations 
     
      Here are the key insights drawn from analyzing the data.
     
@@ -210,7 +210,7 @@
          - Create win-back campaigns targeting recently inactive customers with limited time offers to re-engage them.
          - Offer special incentives for customers who are close to anniversary or account review date.
     
-     # Conclusion 
+    # Conclusion 
     
        By implementing these strategies,the bank can effectively optimize its services,enhance customer satisfaction, and improve  overall profitability. 
     
